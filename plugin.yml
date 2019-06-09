@@ -1,0 +1,11 @@
+name: ID
+main: iSpokeZ\ID
+api: [3.9.1]
+version: 1.0
+author: iSpokeZ
+commands:
+  id:
+    description: ID Komutu (iSpokeZ)
+permissions:
+  id.kmt:
+    default: op
